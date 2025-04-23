@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-👨🏻‍🚀 Me chamo Victor Massia, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Sistemas de Informação.
+👨🏻‍🚀 Me chamo Victor Massia, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software.
 
 
 ### 🤖 Linguagens e Tecnologias
