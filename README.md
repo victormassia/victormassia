@@ -2,7 +2,7 @@
 
 **`Desenvolvedor`**
 
-👨🏻‍🚀 Me chamo Victor Massia, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Engenharia de Software.
+👨🏻‍🚀 Me chamo Victor Massia, tenho 21 anos e sou natural do Rio Grande do Sul. Atualmente, estou cursando Ciência da Computação.
 
 
 ### 🤖 Linguagens e Tecnologias
